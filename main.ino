@@ -1,5 +1,5 @@
 const int photoresistorPin = A0; // Пин для фоторезистора
-const int relayPin = 8;          // Пин для релейного модуля
+const int relayPin = 4;          // Пин для релейного модуля
 const int threshold = 500;       // Пороговое значение освещенности
 const unsigned long debounceDelay = 40000; // Задержка таймера в миллисекундах (40 секунд)
 
